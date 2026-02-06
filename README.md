@@ -474,9 +474,7 @@ abstract class Carrier {
 }
 ```
 
-## 📝 License
 
-MIT
 
 ## 🤝 Contributing
 
