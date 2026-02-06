@@ -2,7 +2,7 @@
 
 A production-ready, extensible TypeScript service for integrating with shipping carriers. Currently supports UPS Rating API with a clean architecture designed to easily add support for FedEx, USPS, DHL, and other carriers.
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Design Philosophy
 
